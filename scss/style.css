@@ -1,0 +1,46 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+header div.imagen {
+  display: flex;
+  justify-content: center;
+}
+
+main h1 {
+  background: #C4C4C4;
+  color: #005677;
+  text-align: center;
+}
+main h3 {
+  background: #C4C4C4;
+  color: #005677;
+}
+main ul li .italic {
+  font-style: italic;
+  font-weight: bold;
+}
+main section .fechas {
+  font-weight: bold;
+}
+
+footer.piePagina {
+  background-color: #005677;
+  color: #ffffff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+footer.piePagina p.pie {
+  margin-right: 1rem;
+}
+footer.piePagina img.instagram {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin: 0.7rem;
+}
+footer.piePagina img.linkedin {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin: 0.7rem;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,60 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    div.imagen{
+        display: flex;
+        justify-content: center;
+    }
+    
+}
+
+main{
+    h1{
+        background: #C4C4C4;
+        color:#005677;
+        text-align: center;
+    }
+    h3{
+        background: #C4C4C4;
+        color:#005677;
+    }
+
+    ul{
+        li{
+            .italic{
+                font-style: italic;
+                font-weight: bold;
+            }
+        }
+    }
+
+    section{
+        .fechas{
+            font-weight: bold;
+        }
+    }
+}
+
+footer.piePagina{
+    background-color: #005677;
+    color: #ffffff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    p.pie{
+        margin-right: 1rem;
+       
+    }
+    img.instagram{
+        width: 1.5rem;
+        height: 1.5rem;
+        margin: .7rem;
+    }
+    img.linkedin{
+        width: 1.5rem;
+        height: 1.5rem;
+        margin: .7rem;
+    }
+}
+

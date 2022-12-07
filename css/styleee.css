@@ -1,0 +1,55 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+  
+    
+}
+
+h1{
+    background: #C4C4C4;
+    color:#005677;
+    text-align: center;
+}
+
+h3{
+    background: #C4C4C4;
+    color:#005677;
+}
+
+.italic{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.fechas{
+    font-weight: bold;
+}
+
+footer{
+    background-color: #005677;
+    color: #ffffff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.pie{
+    margin-right: 1rem;
+}
+
+.instagram{
+    width: 1.5rem;
+    height: 1.5rem;
+    margin: .7rem;
+}
+
+.linkedin{
+    width: 1.5rem;
+    height: 1.5rem;
+    margin: .7rem;
+
+}
